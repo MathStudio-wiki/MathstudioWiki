@@ -13,3 +13,6 @@ MathStudio讨论群，是一群因MathStudio走在一起的小伙伴。我们计
 当然也欢迎大家加入MathStudio讨论组。
 
 
+** 下面是一个测试**
+
+$$ \text{e}^\text{-jwt}$$
