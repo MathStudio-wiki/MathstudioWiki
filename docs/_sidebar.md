@@ -83,11 +83,11 @@
 </ul>-->
 
 * A
-  - [abs(z)](A/abs)
-  - [AiryAi(z)](A/AiryAi)
-  - [AiryBi(z)](A/AiryBi)
-  - [AlternatingSeries(n, [terms])](A/AlternatingSeries)
-  - [Angle(A, B)](A/Angle)
+  - [abs(z) 绝对值](A/abs)
+  - [AiryAi(z) 艾里函数A](A/AiryAi)
+  - [AiryBi(z) 艾里函数B](A/AiryBi)
+  - [AlternatingSeries(n, [terms]) 交错级数](A/AlternatingSeries)
+  - [Angle(A, B) 夹角](A/Angle)
   - [Animate(variable, start, end, [step], [value], [fps])](A/Animate)
   - [Apart(f(x), x)](A/Apart)
   - [Append(expression1, expression2)](A/Append)
