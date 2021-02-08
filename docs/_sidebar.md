@@ -71,7 +71,7 @@
   - [3. Comments 注释](Scripts/Comments)
   - [4. Variable Controls 变量控件](Scripts/VariableControls)
   - [5. Conditional Statements 条件语句](Scripts/ConditionalStatements)
-  - [6. For-In Loops for循环](Scripts/For-InLoops)
+  - [6. For-In Loops For-In循环](Scripts/For-InLoops)
   - [7. While Loops while循环](Scripts/WhileLoops)
   - [8. Timing 计时](Scripts/Timing)
   - [9. Objects 对象](Scripts/Objects)
