@@ -56,7 +56,41 @@
 >   ```
 >   $1.025978818823-0.025151082325i$
 
+>   ```math
+>   Zeta(-3.5)
+>   ```
+>   $\frac{1.359036889011}{\pi^{5}}$
+
+>   ```math
+>   Plot(Zeta(x), x=[-5, 5], y=[-5, 5])
+>   ```
+>   ![zeta](../_media/Z/zeta.png)
+
+>   ```math
+>   Zeta(0, a)
+>   ```
+>   $-a+\frac{1}{2}$
+
+>   ```math
+>   Zeta(-3, a)
+>   ```
+>   $\frac{-a^{4}-a^{2}+2 a^{3}+\frac{1}{30}}{4}$
+
+>   ```math
+>   Zeta(z, 5/2)
+>   ```
+>   $(2 z-1) \operatorname{Zeta}(z)-2 z(3(-z)+1(-z))$
+
+>   ```math
+>   Zeta(z, -5/2)
+>   ```
+>   $(2 z-1) \operatorname{Zeta}(z)+2 z(-1)(-z)(5(-z)+3(-z)+1)$
 
 
 
+## 参考
 
+http://mathworld.wolfram.com/RiemannZetaFunction.html
+
+
+http://en.wikipedia.org/wiki/Riemann_zeta_function
